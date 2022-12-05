@@ -8,7 +8,7 @@ _html-worstifire will create dynamic effect on nested html-tags like_
 ### use
 
 ```bash
-npm install html-worstifre
+npm install html-worstifire
 ```
 
 ## Usage
