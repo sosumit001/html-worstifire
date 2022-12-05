@@ -8,7 +8,7 @@ _html-worstifire will create dynamic effect of some closing html-tags like_
 ### use
 
 ```bash
-install html-worstifre
+npm install html-worstifre
 ```
 
 ## Usage
