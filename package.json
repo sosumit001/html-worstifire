@@ -1,0 +1,14 @@
+{
+  "name": "html-worstifire",
+  "version": "1.0.0",
+  "description": "library to make your html component worst",
+  "main": "index.js",
+  "keywords": [
+    "animation on html components","animation on div element"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
