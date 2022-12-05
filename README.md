@@ -18,6 +18,7 @@ import MakeWorst from "html-worstifire/default";
 
 let container = document.getElementById("myContainer");
 let addDesign = new MakeWorst(container);
+addDesign.animate();
 ```
 
 ## Contributing
