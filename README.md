@@ -1,6 +1,6 @@
 # html-worstifire [lib]
 
-_html-worstifire will create dynamic effect of some closing html-tags like_
+_html-worstifire will create dynamic effect on nested html-tags like_
 `<div></div> <p></p> <ul></ul>` _etc_
 
 ## Installation
